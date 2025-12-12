@@ -3,8 +3,7 @@
     "/content/aem-xcomm/:/",
     "/content/aem-xcomm/configuration:/.helix/config.json",
     "/content/aem-xcomm/headers:/.helix/headers.json",
-    "/content/aem-xcomm/metadata:/metadata.json",
-    "/content/aem-xcomm.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
+    "/content/aem-xcomm/metadata:/metadata.json"
   ],
   "includes": [
     "/content/aem-xcomm/"
